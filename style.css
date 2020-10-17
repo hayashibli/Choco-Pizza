@@ -61,7 +61,7 @@ line-height: 25px;
 color: rgb(75, 74, 74);
 }
 form{
-    background-image: url(../images/list-bg.png);
+    background-image: url(images/list-bg.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
